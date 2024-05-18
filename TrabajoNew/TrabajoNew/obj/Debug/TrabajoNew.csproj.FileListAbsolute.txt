@@ -1,0 +1,11 @@
+C:\Users\RCG\source\repos\TrabajoNew\bin\Debug\TrabajoNew.exe.config
+C:\Users\RCG\source\repos\TrabajoNew\bin\Debug\TrabajoNew.exe
+C:\Users\RCG\source\repos\TrabajoNew\bin\Debug\TrabajoNew.pdb
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.csproj.AssemblyReference.cache
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.Properties.Resources.resources
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.csproj.GenerateResource.cache
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.csproj.CoreCompileInputs.cache
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.exe
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.pdb
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.Form1.resources
+C:\Users\RCG\source\repos\TrabajoNew\obj\Debug\TrabajoNew.ArquitectoForm.resources
